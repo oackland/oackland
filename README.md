@@ -34,7 +34,7 @@ At FixMed Technology LLC, we are committed to revolutionizing the way businesses
 - 👯 I’m looking to collaborate on projects that push the boundaries of AI capabilities.
 - 🤔 I’m looking for help with exploring new opportunities in AI-driven solutions.
 - 💬 Ask me about AI behavior configuration, compliance and security in AI, and improving user interaction with technology.
-- 📫 How to reach me: You can reach out through [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com).
+- 📫 How to reach me: You can reach out through [my email](mailto:oackland0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/oacklandtoro).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Our team at FixMed Technology is passionate about harnessing the power of AI to solve complex problems and create innovative solutions.
 
