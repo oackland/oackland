@@ -46,7 +46,7 @@ I am currently working on the engineering of a Theralight chamber, redesigning t
 - 👯 I’m looking to collaborate on projects that enhance the synergy between biomedical equipment and software.
 - 🤔 I’m looking for help with exploring innovative solutions for BMET integration.
 - 💬 Ask me about BMET integration, full-stack development, and data management in healthcare.
-- 📫 How to reach me: You can reach out through [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com).
+- 📫 How to reach me: You can reach out through [my email](mailto:oackland0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/oacklandtoro).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Our team at FixMed Technology is passionate about leveraging technology to improve healthcare delivery and patient outcomes.
 
