@@ -37,7 +37,15 @@ We have extensive experience working with a variety of major biomedical equipmen
 
 ### Current Project
 
-I am currently working on the engineering of a Theralight chamber, redesigning the electrical schema to enhance its performance and reliability.
+I am currently working on the engineering of a Theralight chamber, a cutting-edge phototherapy device used for therapeutic purposes. My focus is on redesigning the electrical schema to enhance its performance and reliability. This involves:
+
+- **Electrical System Optimization**: Reworking the electrical layout to improve efficiency and reduce power consumption.
+- **Component Integration**: Ensuring seamless integration of new and existing components to enhance functionality.
+- **Safety Enhancements**: Implementing advanced safety features to comply with regulatory standards and ensure patient safety.
+- **Performance Testing**: Conducting rigorous testing to validate the improved design and ensure consistent performance under various conditions.
+- **Documentation and Compliance**: Updating technical documentation to reflect the new design and ensuring compliance with industry standards and regulations.
+
+This project aims to deliver a more reliable and efficient Theralight chamber that meets the highest standards of quality and safety in healthcare technology.
 
 ### Get in Touch
 
