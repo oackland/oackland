@@ -1,13 +1,7 @@
-## Hi there 👋
-
-<!--
-**your_username/your_username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
+# Hi there 👋  
 Welcome to my GitHub profile! I am part of FixMed Technology LLC, where we specialize in integrating biomedical equipment technology (BMET) with full-stack software solutions.
 
 ### About FixMed Technology LLC
-
 At FixMed Technology LLC, we are dedicated to revolutionizing the healthcare industry by seamlessly integrating biomedical equipment with advanced software solutions. Our core focus areas include:
 
 - **BMET Integration**: Expertise in connecting biomedical equipment with robust software platforms.
@@ -17,7 +11,6 @@ At FixMed Technology LLC, we are dedicated to revolutionizing the healthcare ind
 - **Compliance and Security**: Ensuring all solutions adhere to stringent healthcare regulations and security standards.
 
 ### BMET Services
-
 - **Troubleshooting**: Diagnosing and resolving issues with biomedical equipment to ensure optimal performance.
 - **Repair**: Conducting repairs on a wide range of medical devices to maintain their functionality.
 - **Documentation**: Maintaining detailed records of equipment performance, repairs, and maintenance activities.
@@ -26,7 +19,6 @@ At FixMed Technology LLC, we are dedicated to revolutionizing the healthcare ind
 - **Installation**: Setting up and configuring new biomedical equipment in healthcare facilities.
 
 ### Equipment Expertise
-
 We have extensive experience working with a variety of major biomedical equipment used in hospitals and laboratories, including but not limited to:
 
 - **Diagnostic Imaging Equipment**: MRI machines, CT scanners, X-ray machines.
@@ -36,7 +28,6 @@ We have extensive experience working with a variety of major biomedical equipmen
 - **Surgical Equipment**: Anesthesia machines, surgical lights, electrosurgical units.
 
 ### Current Project
-
 I am currently working on the engineering of a Theralight chamber, a cutting-edge phototherapy device used for therapeutic purposes. My focus is on redesigning the electrical schema to enhance its performance and reliability. This involves:
 
 - **Electrical System Optimization**: Reworking the electrical layout to improve efficiency and reduce power consumption.
@@ -48,16 +39,14 @@ I am currently working on the engineering of a Theralight chamber, a cutting-edg
 This project aims to deliver a more reliable and efficient Theralight chamber that meets the highest standards of quality and safety in healthcare technology.
 
 ### Get in Touch
-
-- 🔭 I’m currently working on advancing the integration of biomedical equipment with cutting-edge software technologies.
-- 🌱 I’m currently learning about the latest advancements in biomedical engineering and software development.
-- 👯 I’m looking to collaborate on projects that enhance the synergy between biomedical equipment and software.
-- 🤔 I’m looking for help with exploring innovative solutions for BMET integration.
-- 💬 Ask me about BMET integration, full-stack development, and data management in healthcare.
-- 📫 How to reach me: You can reach out through [my email](mailto:oackland0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/oacklandtoro).
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Our team at FixMed Technology is passionate about leveraging technology to improve healthcare delivery and patient outcomes.
+🔭 I’m currently working on advancing the integration of biomedical equipment with cutting-edge software technologies.  
+🌱 I’m currently learning about the latest advancements in biomedical engineering and software development.  
+👯 I’m looking to collaborate on projects that enhance the synergy between biomedical equipment and software.  
+🤔 I’m looking for help with exploring innovative solutions for BMET integration.  
+💬 Ask me about BMET integration, full-stack development, and data management in healthcare.  
+📫 How to reach me: You can reach out through my email or connect with me on LinkedIn.  
+😄 Pronouns: he/him  
+⚡ Fun fact: Our team at FixMed Technology is passionate about leveraging technology to improve healthcare delivery and patient outcomes.
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Let's create something amazing together!
 
-<!-- You can include some additional information here if you like. -->
